@@ -2,6 +2,6 @@
 
 ### [Machine Learns the Sermon Speaker](Project-1/)
 
-### [TBD]()
+### [Where the GOAT's Roam](Project-2/)
 
 ### [TBD]()
